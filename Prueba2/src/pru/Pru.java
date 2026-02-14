@@ -16,7 +16,10 @@ public class Pru {
 			System.out.println(File.separator);
 			
 	/*
-		
+
+	CAMBIO UNO	
+	CAMBIO DOS
+
 for (int i = 0; i < 5000; i++) {
 	
 	
@@ -65,3 +68,4 @@ public static void escribir(String texto) throws IOException {
 	}
 
 }
+
